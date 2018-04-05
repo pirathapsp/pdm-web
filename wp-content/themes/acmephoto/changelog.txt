@@ -1,0 +1,50 @@
+== Change log ==
+
+= 1.1.1 - Jan 10 2018 =
+* Added : Breadcrumb and TGM-Plugin-Activation added
+* Update : Admin script enqueue
+* Update : Font Awesome, theia-sticky-sidebar and bxslider
+
+= 1.1.0 - July 10 2017 =
+* Added: Front Page, Archive and Single Page/Post Advanced Sidebar
+* Added: Single Post Options
+* Added: Blog/Archive Image Size
+* Added: Single Image Size
+* Added: Related Post form Category or Tag
+* Added: WooCommerce Support
+* Added: Acme Demo Setup
+* Added: Theme Info Page on Admin
+* Add: Sticky Sidebar Options
+* Add: Page Builder Compatible
+* Fixed: Reset
+* Fixed: Excerpt hooks
+* Update: Breadcrumbs
+* Update: Customizer Experience
+
+= 1.0.5 =
+* Add: Screenshot Image and Other Image
+* Update: Language file
+
+= 1.0.4 =
+* Add: Upgrade to Pro
+* Fix: CSS tweaks
+
+= 1.0.3 =
+* Update: Default values
+* Fix: CSS tweaks
+
+= 1.0.2 =
+* Add: Feature Slider
+* Add: Menu Position Options
+* Fix: CSS tweaks
+
+= 1.0.1 =
+* Fix: Minor CSS
+
+= 1.0.0 =
+* Update: Extend theme options
+* Fix: CSS tweaks
+
+
+= 0.0.1 =
+* Submitted to WordPress.org
