@@ -1,0 +1,12 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_accesspress-store">
+    <key name="accesspress_ticker_title" />
+    <key name="accesspress_ticker_text1" />
+    <key name="accesspress_ticker_text2" />
+    <key name="accesspress_ticker_text3" />
+    <key name="accesspress_ticker_text4" />
+    <key name="accesspress_store_copyright" />
+</key>
+</admin-texts>
+</wpml-config>

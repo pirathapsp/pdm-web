@@ -1,0 +1,1759 @@
+# Translation of Themes - AccessPress Store in Russian
+# This file is distributed under the same license as the Themes - AccessPress Store package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-07 22:06+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - AccessPress Store\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Description of the plugin/theme
+msgid "AccessPress Store is free WordPress theme that work beautifully with WooCommerce. The theme is packed with lots of exciting feature that enhances the ecommerce experience. It features Product slider, advanced whistlist, Featured product show list, call to action and many more. With its advanced customizer options, setting up the ecommerce website has become much more easy. Great customer support via online chat, email, support forum. Official support forum: http://accesspressthemes.com/support/ View full demo here: http://demo.accesspressthemes.com/accesspress-store/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "AccessPress Store"
+msgstr "Магазин AccessPress"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/accesspress-plugin-activation.php:2705
+msgid "Activate %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/accesspress-plugin-activation.php:2699
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/accesspress-plugin-activation.php:2694
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/accesspress-plugin-activation.php:2624
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/accesspress-plugin-activation.php:2433
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/accesspress-plugin-activation.php:2073
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/accesspress-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/accesspress-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:147
+msgid "Important Links"
+msgstr ""
+
+#: inc/core/template-tags.php:91
+msgid "by %s"
+msgstr ""
+
+#: inc/core/template-tags.php:86
+msgid "Posted on %s"
+msgstr ""
+"Опубликовано\n"
+" %s"
+
+#: inc/customizer/general-settings/general-setting.php:17
+msgid "Theme have two different widget title layout select layout as you want"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:16
+msgid "Widget Title Layout Type"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:5
+msgid "Widget Title Layout Settings"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:117
+#: inc/customizer/general-settings/general-setting.php:21
+msgid "Widget Title Style Two"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:116
+#: inc/customizer/general-settings/general-setting.php:20
+msgid "Widget Title Style One"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:37
+msgid "Theme have two different heder layout select you header layout as you want"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:36
+msgid "Header Layout Type"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:25
+msgid "Header Layout Settings"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:105
+#: inc/customizer/general-settings/general-setting.php:41
+msgid "Header Style Two"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:104
+#: inc/customizer/general-settings/general-setting.php:40
+msgid "Header Style One"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog Page Template"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:128
+msgid "Header Logo"
+msgstr "Логотип заголовка"
+
+#: inc/widgets/widget-cta-video.php:50
+msgid "Background Upload Image"
+msgstr ""
+
+#: functions.php:165
+msgid "Customize"
+msgstr "Изменить"
+
+#: functions.php:135
+msgid "More Themes from <a href=\"%s\" target=\"_blank\">AccessPress Themes</a>"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:149
+msgid "Buy Now"
+msgstr "Купить сразу"
+
+#: inc/customizer/custom-control-class.php:146
+msgid "A perfect theme to start your online shop of any kind!"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:145
+msgid "Fast loading"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:144
+msgid "Fully SEO optimized"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:143
+msgid "Client Logo Section"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:142
+msgid "Testimonial section"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:141
+msgid "Team section"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:140
+msgid "Tab section to show products"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:139
+msgid "Tab section to show category"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:138
+msgid "Widget for latest product with accordance"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:137
+msgid "Beautiful checkout pages"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:136
+msgid "Beautiful product page"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:135
+msgid "Page banner"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:134
+msgid "14 Widgets"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:133
+msgid "4 Blog layout"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:132
+msgid "Grid / list Archive view"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:131
+msgid "4 Post layout"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:130
+msgid "4 Page layout"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:129
+msgid "4 WooCommerce Archive layout"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:128
+msgid "WooCommerce settings"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:127
+msgid "Unlimited SSL Badge and credit card icons upload"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:126
+msgid "Promo Ticker"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:125
+msgid "Product and content search"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:124
+msgid "Multiple Category display layout"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:123
+msgid "Youtube video integration"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:122
+msgid "Highly configurable home page"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:121
+msgid "Color configuration"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:120
+msgid "Background configuration"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:119
+msgid "Unlimited slider options"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:118
+msgid "Boxed and full layout"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:117
+msgid "Advanced product search"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:116
+msgid "Mega menu"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:115
+msgid "Deep WooCommerce Integration!"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:114
+msgid "Next generation WooCommerce theme"
+msgstr ""
+
+#: inc/customizer/custom-control-class.php:113
+msgid "Fully built on customizer!"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:157
+msgid "Store Pro Features"
+msgstr ""
+
+#: functions.php:215
+msgid "Live Preview"
+msgstr "Интерактивный предварительный просмотр"
+
+#: functions.php:212
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#: functions.php:200
+msgid "Already installed"
+msgstr "Уже установлен"
+
+#: functions.php:121 functions.php:122
+msgid "More Themes"
+msgstr "Другие темы"
+
+#: inc/widgets/widget-product1.php:211 woocommerce/content-feat-product.php:83
+#: woocommerce/content-product.php:68
+msgid "Wishlist"
+msgstr "В избранное"
+
+#: inc/custom-metabox.php:62
+msgid "here"
+msgstr "тут"
+
+#: inc/custom-metabox.php:62
+msgid "You can set up the sidebar content"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:444
+msgid "Breadcrumb Post Options"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:413
+msgid "Breadcrumb Page Options"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:382
+msgid "WooCommerce Single Product Page"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:378
+#: inc/customizer/slider-settings/slider-setting.php:409
+#: inc/customizer/slider-settings/slider-setting.php:440
+#: inc/customizer/slider-settings/slider-setting.php:471
+msgid "Uplaod Breadcrumb Background Image, Breadcrumb Background Image Size of 2000 &times; 156 Pixels."
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:376
+#: inc/customizer/slider-settings/slider-setting.php:407
+#: inc/customizer/slider-settings/slider-setting.php:438
+#: inc/customizer/slider-settings/slider-setting.php:469
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:363
+#: inc/customizer/slider-settings/slider-setting.php:394
+#: inc/customizer/slider-settings/slider-setting.php:425
+#: inc/customizer/slider-settings/slider-setting.php:456
+msgid "Enable/Disable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:351
+msgid "WooCommerce Archive Page"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:347
+msgid "This allows to upload breadcrumb background image"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:346
+msgid "Breadcrumb Setting"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:58
+msgid "Sub Title"
+msgstr "Подзаголовок"
+
+#: inc/widgets/widget-full-promo.php:51
+msgid "Select FullWidth Style"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:26
+msgid "A widget that Gives Full Width Promo of the object"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:237
+msgid "Copyright Text"
+msgstr "Текст копирайта"
+
+#: inc/customizer/general-settings/general-setting.php:225
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:216
+msgid "Custom CSS"
+msgstr "CSS пользователя"
+
+#: inc/customizer/general-settings/general-setting.php:204
+msgid "Custom CSS Section"
+msgstr ""
+
+#: footer.php:95
+msgid "WordPress Theme : %1$s by %2$s"
+msgstr ""
+
+#: footer.php:93
+msgid "&copy; %1$s %2$s"
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/accesspress-plugin-activation.php:3611
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/accesspress-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr "Все установки были завершены."
+
+#. translators: 1: plugin name.
+#: inc/accesspress-plugin-activation.php:3608
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: inc/accesspress-plugin-activation.php:3606
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации начат. Этот процесс может занять некоторое время, пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/accesspress-plugin-activation.php:3603
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/accesspress-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr "Все установок и активаций были завершены."
+
+#: inc/accesspress-plugin-activation.php:3600
+#: inc/accesspress-plugin-activation.php:3608
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: inc/accesspress-plugin-activation.php:3600
+#: inc/accesspress-plugin-activation.php:3608
+msgid "Show Details"
+msgstr "Показать детали"
+
+#. translators: 1: plugin name.
+#: inc/accesspress-plugin-activation.php:3600
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: inc/accesspress-plugin-activation.php:3598
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации начат. Этот процесс может занять некоторое время, пожалуйста, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/accesspress-plugin-activation.php:3594
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s fehlgeschlagen."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/accesspress-plugin-activation.php:3592
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/accesspress-plugin-activation.php:3589
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#: inc/accesspress-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась"
+
+#: inc/accesspress-plugin-activation.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr "На текущий момент плагины для активации недоступны."
+
+#: inc/accesspress-plugin-activation.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбраны плагины для активации. Никаких действий не произведено."
+
+#: inc/accesspress-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr "На текущий момент плагины для обновления недоступны."
+
+#: inc/accesspress-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr "На текущий момент плагины для установки недоступны."
+
+#: inc/accesspress-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбраны плагины для обновления. Никаких действий не произведено."
+
+#: inc/accesspress-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбраны плагины для установки. Никаких действий не произведено."
+
+#: functions.php:203 inc/accesspress-plugin-activation.php:2817
+msgid "Activate"
+msgstr "Активный."
+
+#: inc/accesspress-plugin-activation.php:2814
+msgid "Update"
+msgstr "Обновление"
+
+#: inc/accesspress-plugin-activation.php:2808
+msgid "Install"
+msgstr "Установить"
+
+#: inc/accesspress-plugin-activation.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: inc/accesspress-plugin-activation.php:2645
+msgid "Status"
+msgstr "Состояние"
+
+#: inc/accesspress-plugin-activation.php:2644
+msgid "Version"
+msgstr "Версия"
+
+#: inc/accesspress-plugin-activation.php:2640
+msgid "Type"
+msgstr "Тип"
+
+#: inc/accesspress-plugin-activation.php:2639
+msgid "Source"
+msgstr "Источник"
+
+#: inc/accesspress-plugin-activation.php:2638
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/accesspress-plugin-activation.php:2601
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/accesspress-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr "Минимальная требуемая версия:"
+
+#: inc/accesspress-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/accesspress-plugin-activation.php:2573
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестно"
+
+#. translators: 1: number of plugins.
+#: inc/accesspress-plugin-activation.php:2491
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Активировать <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/accesspress-plugin-activation.php:2487
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновления <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/accesspress-plugin-activation.php:2483
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/accesspress-plugin-activation.php:2479
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: inc/accesspress-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/accesspress-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr "Необходимо обновление"
+
+#: inc/accesspress-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr "Необходимое обновление недоступно"
+
+#: functions.php:163 inc/accesspress-plugin-activation.php:2412
+msgid "Active"
+msgstr "Активно"
+
+#: inc/accesspress-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr "Установлены, но не активированы"
+
+#: inc/accesspress-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/accesspress-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованные"
+
+#: inc/accesspress-plugin-activation.php:2386
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/accesspress-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr "WordPress репозитория"
+
+#: inc/accesspress-plugin-activation.php:2367
+msgid "Recommended"
+msgstr "Рекомендовано"
+
+#: inc/accesspress-plugin-activation.php:2364
+msgid "Required"
+msgstr "Обязательные"
+
+#: inc/accesspress-plugin-activation.php:1212
+#: inc/accesspress-plugin-activation.php:3039
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/accesspress-plugin-activation.php:1028
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Архив плагина состоит из более чем одного файла, но эти файлы не находятся в папке."
+
+#: inc/accesspress-plugin-activation.php:1025
+#: inc/accesspress-plugin-activation.php:1028
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: inc/accesspress-plugin-activation.php:1025
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Архив плагина не содержит папки нужным именем, и переименование не сработало."
+
+#: inc/accesspress-plugin-activation.php:393
+#: inc/accesspress-plugin-activation.php:918
+#: inc/accesspress-plugin-activation.php:2624
+#: inc/accesspress-plugin-activation.php:3671
+msgid "Return to the Dashboard"
+msgstr "Вернуться на панель управления"
+
+#: inc/accesspress-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr "Используйте переменную parent_slug."
+
+#: inc/accesspress-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Необходимо обновление"
+
+#: inc/accesspress-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить для совместимости с вашей темой."
+
+#: inc/accesspress-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Игнорировать это уведомление"
+
+#: inc/accesspress-function.php:792 inc/accesspress-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь за помощью к администратору сайта."
+
+#. translators: 1: dashboard link.
+#: inc/accesspress-function.php:791 inc/accesspress-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Всеплагины установлены и активированны успешно. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/accesspress-function.php:790 inc/accesspress-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Для этой темы необходима более новая версия %s. Пожалуйста, обновите плагин."
+
+#. translators: 1: plugin name.
+#: inc/accesspress-function.php:789 inc/accesspress-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Никаких действий не произведено. Плагин %1$s уже активирован."
+
+#: inc/accesspress-function.php:788 inc/accesspress-plugin-activation.php:395
+#: inc/accesspress-plugin-activation.php:3043
+msgid "The following plugin was activated successfully:"
+msgstr "Этот плагин был успешно активирован:"
+
+#: inc/accesspress-function.php:787 inc/accesspress-plugin-activation.php:394
+#: inc/accesspress-plugin-activation.php:3250
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/accesspress-function.php:786 inc/accesspress-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться на установку подключаемых модулей."
+
+#: inc/accesspress-function.php:783 inc/accesspress-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активировать плагин"
+msgstr[1] "Начинается активация плагинов"
+msgstr[2] ""
+
+#: inc/accesspress-function.php:780 inc/accesspress-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#. translators: 1: plugin name(s).
+#: inc/accesspress-function.php:777 inc/accesspress-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] ""
+
+#: inc/accesspress-function.php:774
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Извините, у вас недостаточно полномочий, чтобы активировать плагин %1$s."
+msgstr[1] "Извините, у вас недостаточно полномочий, чтобы активировать плагины %1$s."
+msgstr[2] "Извините, у вас недостаточно полномочий, чтобы активировать плагины %1$s."
+
+#: inc/accesspress-function.php:771
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующие рекомендованные плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендованные плагины в настоящее время неактивны: %1$s."
+msgstr[2] ""
+
+#: inc/accesspress-function.php:768
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Ниже требуется плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие необходимые плагины в настоящее время неактивны: %1$s."
+msgstr[2] ""
+
+#: inc/accesspress-function.php:765
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Извините, у вас недостаточно полномочий, чтобы обновлять плагин %1$s."
+msgstr[1] "Извините, у вас недостаточно полномочий, чтобы обновлять плагины %1$s."
+msgstr[2] "Извините, у вас недостаточно полномочий, чтобы обновлять плагины %1$s."
+
+#: inc/accesspress-function.php:762
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление для %1$s."
+msgstr[1] "Доступны обновления для следующих плагинов: %1$s."
+msgstr[2] "Доступны обновления для следующих плагинов: %1$s."
+
+#: inc/accesspress-function.php:759
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Следующие плагин должен быть обновлен до своей последней версии для обеспечения максимальной совместимости с этой темой: %1$s."
+msgstr[1] "Следующие плагины должны быть обновлены до последней версии их для обеспечения максимальной совместимости с этой темой: %1$s."
+msgstr[2] ""
+
+#: inc/accesspress-function.php:756
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Извините, у вас недостаточно полномочий, чтобы устанавливать плагин %1$s."
+msgstr[1] "Извините, у вас недостаточно полномочий, чтобы устанавливать плагины %1$s."
+msgstr[2] "Извините, у вас недостаточно полномочий, чтобы устанавливать плагины %1$s."
+
+#: inc/accesspress-function.php:753
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Рекомендуется установка плагина: %1$s."
+msgstr[1] "Рекомендуется установка плагинов: %1$s."
+msgstr[2] ""
+
+#: inc/accesspress-function.php:750
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующие плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] ""
+
+#: inc/accesspress-function.php:749 inc/accesspress-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагином."
+
+#. translators: %s: plugin name.
+#: inc/accesspress-function.php:748 inc/accesspress-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/accesspress-function.php:747 inc/accesspress-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/accesspress-function.php:746 inc/accesspress-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Установите требуемые подключаемые модули"
+
+#. Template Name of the plugin/theme
+msgid "HomePage"
+msgstr "Главная страница"
+
+#: woocommerce/single-product/up-sells.php:40
+msgid "You may also like&hellip;"
+msgstr "Вам также может понравиться&hellip;"
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr "Похожие товары"
+
+#: woocommerce/single-product/product-image.php:42
+msgid "Placeholder"
+msgstr "\"Заполнитель\""
+
+#: woocommerce/single-product/meta.php:26
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Метка:"
+msgstr[1] "Метки:"
+msgstr[2] "Метки:"
+
+#: woocommerce/single-product/meta.php:25
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Категория:"
+msgstr[1] "Категории:"
+msgstr[2] "Категории:"
+
+#: woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr "Нет"
+
+#: woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr "Артикул:"
+
+#: woocommerce/loop/result-count.php:34
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d&ndash;%2$d of <span class=\"total-products\">%3$d results</span>"
+msgstr "Показаны %1$d&ndash;%2$d of <span class=\"total-products\">%3$d results</span>"
+
+#: woocommerce/loop/result-count.php:32
+msgid "Showing all <span class=\"total-products\">%d results</span>"
+msgstr "Показаны все <span class=\"total-products\">%d результатов</span>"
+
+#: woocommerce/loop/result-count.php:30
+msgid "Showing the single result"
+msgstr "Показ единственного результата"
+
+#: searchform.php:8
+msgid "Search products"
+msgstr "Поиск товара"
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/widgets/widget-full-promo.php:77 inc/widgets/widget-promo.php:64
+msgid "Enter Promo Link"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:71 inc/widgets/widget-promo.php:58
+msgid "Enter Promo Button Text"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:64 inc/widgets/widget-promo.php:51
+msgid "Enter Promo Desc"
+msgstr ""
+
+#: inc/widgets/widget-full-promo.php:45 inc/widgets/widget-promo.php:45
+msgid "Upload Image"
+msgstr "Закачать изображение"
+
+#: inc/widgets/widget-promo.php:26
+msgid "A widget that Gives Promo of the object"
+msgstr ""
+
+#: inc/widgets/widget-product2.php:63
+msgid "Select the Display Style (Image Alignment)"
+msgstr ""
+
+#: inc/widgets/widget-product2.php:32
+msgid "Left Align With Category Image"
+msgstr ""
+
+#: inc/widgets/widget-product2.php:31
+msgid "Right Align With Category Image"
+msgstr ""
+
+#: inc/widgets/widget-product2.php:20
+msgid "This widgets show the Category Image its Description and Product of that Category"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:120
+msgid "New!"
+msgstr "Новое!"
+
+#: inc/widgets/widget-product1.php:91
+msgid "Select the number of Product to show"
+msgstr "Выберите количество отображаемого продукта"
+
+#: inc/widgets/widget-product1.php:83 inc/widgets/widget-product2.php:70
+msgid "Select Product Category"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:76
+msgid "Select Product Type"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:40
+msgid "On Sale Product"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:39
+msgid "Feature Product"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:38
+msgid "UpSell Product"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:37
+msgid "Latest Product"
+msgstr ""
+
+#: inc/widgets/widget-product1.php:36
+msgid "Category"
+msgstr "Рубрики"
+
+#: inc/widgets/widget-product1.php:24
+msgid "The Product Slide Choose your type"
+msgstr ""
+
+#: inc/widgets/widget-icon-text.php:63
+msgid "Read More Link"
+msgstr ""
+
+#: inc/widgets/widget-icon-text.php:58
+msgid "Leave Empty not to show"
+msgstr ""
+
+#: inc/widgets/widget-icon-text.php:57
+msgid "Read More Text"
+msgstr "Текст надписи «Читать далее»"
+
+#: inc/widgets/widget-icon-text.php:52
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/widgets/widget-icon-text.php:46
+msgid "Content"
+msgstr "Содержание"
+
+#: inc/widgets/widget-icon-text.php:26
+msgid "A widget that shows Text with Icon"
+msgstr ""
+
+#: inc/widgets/widget-cta-video.php:55
+msgid "Video Iframe"
+msgstr ""
+
+#: inc/widgets/widget-cta-video.php:26
+msgid "A widget that shows Call to Action with Video"
+msgstr ""
+
+#: inc/widgets/widget-cta-simple.php:60 inc/widgets/widget-cta-video.php:66
+msgid "Button Url"
+msgstr ""
+
+#: inc/widgets/widget-cta-simple.php:55
+msgid "Enter Fontawesome Class to show in button"
+msgstr ""
+
+#: inc/widgets/widget-cta-simple.php:50 inc/widgets/widget-cta-video.php:61
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/widgets/widget-cta-simple.php:44 inc/widgets/widget-cta-video.php:44
+msgid "Description"
+msgstr "Описание"
+
+#: inc/widgets/widget-cta-simple.php:39 inc/widgets/widget-cta-video.php:39
+#: inc/widgets/widget-full-promo.php:39 inc/widgets/widget-icon-text.php:41
+#: inc/widgets/widget-product1.php:70 inc/widgets/widget-promo.php:39
+msgid "Title"
+msgstr "Название"
+
+#: inc/widgets/widget-cta-simple.php:26
+msgid "A widget that shows Simple Call to Action"
+msgstr ""
+
+#: inc/core/template-tags.php:181
+msgid "Archives"
+msgstr "Архивы"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/core/template-tags.php:179
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/core/template-tags.php:175
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+#: inc/core/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чаты"
+
+#: inc/core/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/core/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Статусы"
+
+#: inc/core/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ссылки"
+
+#: inc/core/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: inc/core/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+#: inc/core/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+#: inc/core/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галереи"
+
+#: inc/core/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Заметки"
+
+#: inc/core/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "d.m.Y"
+
+#: inc/core/template-tags.php:153
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: inc/core/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/core/template-tags.php:151
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: inc/core/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/core/template-tags.php:149
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: inc/core/template-tags.php:147
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: inc/core/template-tags.php:145
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+#: inc/core/template-tags.php:143
+msgid "Category: %s"
+msgstr "Рубрика: %s"
+
+#: inc/core/template-tags.php:122
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: inc/core/template-tags.php:122
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/core/template-tags.php:122
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/core/template-tags.php:116
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/core/template-tags.php:110
+msgid "Posted in %1$s"
+msgstr "Опубликовано в рубрике %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/core/template-tags.php:108 inc/core/template-tags.php:114
+msgid ", "
+msgstr ", "
+
+#: inc/core/template-tags.php:56
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: inc/core/template-tags.php:31
+msgid "Newer posts"
+msgstr "Следующие записи"
+
+#: inc/core/template-tags.php:27
+msgid "Older posts"
+msgstr "Предыдущие записи"
+
+#: inc/core/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/widgets/widget-fields.php:234
+msgid "View File"
+msgstr "Просмотреть файл"
+
+#: inc/widgets/widget-fields.php:215
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Обновите вашу версию WordPress для полной медиа поддержки."
+
+#: functions.php:103 inc/widgets/widget-fields.php:212
+msgid "Remove"
+msgstr "Удалить"
+
+#: functions.php:102 inc/widgets/widget-fields.php:210
+msgid "Upload"
+msgstr "Передать"
+
+#: inc/widgets/widget-fields.php:207
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+#: inc/core/extras.php:60
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/custom-metabox.php:32
+msgid "No sidebar"
+msgstr "Без боковых колонок"
+
+#: inc/custom-metabox.php:27
+msgid "Both Sidebar"
+msgstr "Обе боковых колонки"
+
+#: inc/custom-metabox.php:22
+msgid "Right sidebar<br/>(default)"
+msgstr "Боковая колонка справа<br/>(по умолчанию)"
+
+#: inc/custom-metabox.php:17
+msgid "Left sidebar"
+msgstr "Меню слева"
+
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:50
+msgid "Hide Header Product Search"
+msgstr ""
+
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:32
+msgid "Custom Placeholder"
+msgstr ""
+
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:9
+#: inc/customizer/woocommerce-settings/woocommerce-setting.php:16
+msgid "Woocommerce Setting"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:338
+msgid "Slider 5 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:326
+msgid "Slider 5 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:312
+msgid "Select Post For Slider Five"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:301
+msgid "Slider 4 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:289
+msgid "Slider 4 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:275
+msgid "Select Post For Slider Four"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:263
+msgid "Slider 3 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:251
+msgid "Slider 3 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:237
+msgid "Select Post For Slider Three"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:226
+msgid "Slider 2 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:214
+msgid "Slider 2 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:200
+msgid "Select Post For Slider Two"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:189
+msgid "Slider 1 Button Text"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:177
+msgid "Slider 1 Button Link"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:162
+msgid "Select Post For Slider One"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:150
+msgid "Select Slider Post"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:141
+msgid "Slider 5"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:135
+msgid "Slider 4"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:129
+msgid "Slider 3"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:123
+msgid "Slider 2"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:117
+msgid "Slider 1"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:111
+msgid "Show Caption"
+msgstr "Показывать подпись"
+
+#: inc/customizer/slider-settings/slider-setting.php:100
+msgid "Slider Pause"
+msgstr "Задержка прокрутки"
+
+#: inc/customizer/slider-settings/slider-setting.php:89
+msgid "Slider Speed"
+msgstr "Скорость прокрутки"
+
+#: inc/customizer/slider-settings/slider-setting.php:75
+msgid "Slider Transitions (Slide/Fade)"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:61
+msgid "Auto Transition"
+msgstr "Авто Переход"
+
+#: inc/customizer/slider-settings/slider-setting.php:49
+msgid "Show Controls"
+msgstr "Показывать Управление"
+
+#: inc/customizer/slider-settings/slider-setting.php:37
+msgid "Show Pager"
+msgstr "Показывать Пейджер"
+
+#: inc/customizer/slider-settings/slider-setting.php:25
+msgid "Show Slider"
+msgstr "Показывать слайдер"
+
+#: inc/customizer/slider-settings/slider-setting.php:13
+msgid "Basic Slider Settings"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:9
+msgid "This allows to edit the Slider"
+msgstr ""
+
+#: inc/customizer/slider-settings/slider-setting.php:8
+msgid "Slider Setting"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:123
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:138
+msgid "Upload Other Seal 2 Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:108
+msgid "Upload SSL Seal Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:91
+msgid "Other Logo Images"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:85
+msgid "Upload Payment Logo 4 Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:68
+msgid "Upload Payment Logo 3 Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:51
+msgid "Upload Payment Logo 2 Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:34
+msgid "Upload Payment Logo 1 Image"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:17
+msgid "Payment Logo Images"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:10
+msgid "This allows to edit the paymentlogo"
+msgstr ""
+
+#: inc/customizer/paymentlogo-settings/paymentlogo-setting.php:9
+msgid "Payment/Certification Logo Setting"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:100
+msgid "Archive Page Inner View"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:76
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:52
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:28
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:8
+msgid "If not defined from cutom metabox these settings will be applied."
+msgstr ""
+
+#: inc/customizer/layout-settings/pagepost-setting.php:7
+msgid "Page/Post Settings"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:196
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:192
+msgid "Make your website either box layout or full width from click away"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:191
+msgid "Website Layout"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:179
+msgid "Layout Setting"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:166
+msgid "Background Pattern"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:148
+msgid "Select the Background type for your website"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:147
+msgid "Select the Background type"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:134
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customizer/general-settings/general-setting.php:121
+msgid "Ticker Text4"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:110
+msgid "Ticker Text3"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:99
+msgid "Ticker Text2"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:88
+msgid "Ticker Text 1"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:77
+msgid "Ticker Title"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:65
+msgid "Enable Disable Ticker"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:53
+msgid "Ticker Setting"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:49
+msgid "This allows to edit the header"
+msgstr ""
+
+#: inc/customizer/general-settings/general-setting.php:48
+msgid "General Setting"
+msgstr ""
+
+#: inc/customizer/blog-settings/blog-setting.php:24
+msgid "Blog Layout"
+msgstr "Блог макет"
+
+#: inc/customizer/blog-settings/blog-setting.php:7
+msgid "Blog Settings"
+msgstr "Настройки блога"
+
+#: inc/customizer/accesspress-sanitizer.php:141
+#: inc/customizer/custom-control-class.php:36
+msgid "No"
+msgstr "Нет"
+
+#: inc/customizer/accesspress-sanitizer.php:140
+#: inc/customizer/custom-control-class.php:35
+msgid "Yes"
+msgstr "Да"
+
+#: inc/customizer/accesspress-sanitizer.php:129
+#: inc/customizer/custom-control-class.php:18
+msgid "Disable"
+msgstr "Отключить"
+
+#: inc/customizer/accesspress-sanitizer.php:128
+#: inc/customizer/custom-control-class.php:17
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/customizer/accesspress-sanitizer.php:93
+#: inc/customizer/slider-settings/slider-setting.php:79
+msgid "Slide"
+msgstr "Скольжение"
+
+#: inc/customizer/accesspress-sanitizer.php:92
+#: inc/customizer/slider-settings/slider-setting.php:78
+msgid "Fade"
+msgstr "Растворение"
+
+#: inc/customizer/accesspress-sanitizer.php:49
+#: inc/customizer/general-settings/general-setting.php:154
+msgid "Pattern"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:48
+#: inc/customizer/general-settings/general-setting.php:153
+msgid "Image"
+msgstr "Картинка"
+
+#: inc/customizer/accesspress-sanitizer.php:47
+#: inc/customizer/general-settings/general-setting.php:152
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer/accesspress-sanitizer.php:36
+#: inc/customizer/blog-settings/blog-setting.php:30
+msgid "Blog Full Content"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:35
+#: inc/customizer/blog-settings/blog-setting.php:29
+msgid "Blog Image Medium Alternate"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:34
+#: inc/customizer/blog-settings/blog-setting.php:28
+msgid "Blog Image Medium"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:33
+#: inc/customizer/blog-settings/blog-setting.php:27
+msgid "Blog Image Large"
+msgstr ""
+
+#: inc/customizer/accesspress-sanitizer.php:22
+#: inc/customizer/layout-settings/pagepost-setting.php:104
+msgid "Grid"
+msgstr "Сетка"
+
+#: inc/customizer/accesspress-sanitizer.php:21
+#: inc/customizer/layout-settings/pagepost-setting.php:103
+msgid "List"
+msgstr "Список"
+
+#: inc/customizer/accesspress-sanitizer.php:10
+#: inc/customizer/general-settings/general-setting.php:197
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: inc/customizer/accesspress-sanitizer.php:9
+msgid "Boxed"
+msgstr "Фиксированная"
+
+#: inc/accesspress-function.php:578
+msgid "Page"
+msgstr "Страница"
+
+#: inc/accesspress-function.php:570
+msgid "Articles posted by "
+msgstr "Статьи  опубликованные  "
+
+#: inc/accesspress-function.php:566
+msgid "Posts tagged"
+msgstr "Сообщения с тегами"
+
+#: inc/accesspress-function.php:508
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+#: inc/accesspress-function.php:506
+msgid "Archive by category"
+msgstr "Архив рубрики "
+
+#: inc/accesspress-function.php:487
+msgid "Home"
+msgstr "Домашняя страница"
+
+#: inc/accesspress-function.php:471
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "Главная"
+
+#: inc/accesspress-function.php:368
+msgid "View your shopping cart"
+msgstr "Посмотреть вашу корзину"
+
+#: inc/accesspress-function.php:150
+msgid "Footer Area 4"
+msgstr ""
+
+#: inc/accesspress-function.php:140
+msgid "Footer Area 3"
+msgstr "Область колонтитула 3"
+
+#: inc/accesspress-function.php:130
+msgid "Footer Area 2"
+msgstr "Область колонтитула 2"
+
+#: inc/accesspress-function.php:120
+msgid "Footer Area 1"
+msgstr "Область колонтитула 1"
+
+#: inc/accesspress-function.php:110
+msgid "AP: Promo Widget 3"
+msgstr ""
+
+#: inc/accesspress-function.php:10
+msgid "AP: Right Sidebar"
+msgstr ""
+
+#: inc/accesspress-function.php:20
+msgid "AP: Left Sidebar"
+msgstr ""
+
+#: inc/accesspress-function.php:100
+msgid "AP: Product Listing Widget 3"
+msgstr ""
+
+#: inc/accesspress-function.php:90
+msgid "AP: Video Call to Action"
+msgstr ""
+
+#: inc/accesspress-function.php:80
+msgid "AP: Product Listing Widget 2"
+msgstr ""
+
+#: inc/accesspress-function.php:70
+msgid "AP: Promo Widget 2"
+msgstr ""
+
+#: inc/accesspress-function.php:60
+msgid "AP: Product Listing Widget 1"
+msgstr ""
+
+#: inc/accesspress-function.php:50
+msgid "AP: Promo Widget 1"
+msgstr ""
+
+#: inc/accesspress-function.php:40
+msgid "Header Call To Box"
+msgstr ""
+
+#: inc/accesspress-function.php:30
+msgid "Shop Sidebar"
+msgstr ""
+
+#: header/header-one.php:102 header/header-two.php:110
+msgid "Menu"
+msgstr "Меню"
+
+#: header/header-one.php:66 header/header-two.php:74
+msgid "Login"
+msgstr "Войти"
+
+#: header/header-one.php:62 header/header-two.php:68
+msgid " Logout"
+msgstr "Выйти"
+
+#: header/header-one.php:21 header/header-two.php:21
+msgid "!"
+msgstr ""
+
+#: header/header-one.php:15 header/header-two.php:15
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:82
+msgid "Other Seal 2"
+msgstr ""
+
+#: footer.php:78
+msgid "Other Seal 1"
+msgstr ""
+
+#: footer.php:74
+msgid "SSL Seal"
+msgstr ""
+
+#: footer.php:70
+msgid "Partner Logo 4"
+msgstr ""
+
+#: footer.php:66
+msgid "Partner Logo 3"
+msgstr ""
+
+#: footer.php:62
+msgid "Partner Logo 2"
+msgstr ""
+
+#: footer.php:58
+msgid "Partner Logo 1"
+msgstr ""
+
+#: inc/core/template-tags.php:126
+msgid "Edit"
+msgstr "Изменить"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Не найдено"
+
+#: content-blog.php:86 content-page.php:23 content-single.php:30
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content-blog.php:82 content.php:35 template-blog.php:125
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: content-blog.php:65 content-single.php:22 content.php:24
+#: template-blog.php:108
+msgid "by"
+msgstr "от"
+
+#: content-blog.php:63 content-single.php:20 content.php:22
+#: template-blog.php:106
+msgid "at"
+msgstr "на"
+
+#: content-blog.php:61 content-single.php:18 content.php:20
+#: template-blog.php:104
+msgid "Posted On"
+msgstr "Опубликовано"
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr "Комментарии запрещены."
+
+#: comments.php:38 comments.php:60
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:37 comments.php:59
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:34 comments.php:56
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%2$s: %1$s комментарий"
+msgstr[1] "%2$s: %1$s комментария"
+msgstr[2] "%2$s: %1$s комментариев"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском."
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#. Author URI of the plugin/theme
+msgid "http://accesspressthemes.com/"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://accesspressthemes.com/wordpress-themes/accesspress-store/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "AccessPress Themes"
+msgstr "Тема AccessPress"

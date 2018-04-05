@@ -1,0 +1,14 @@
+/*What done in this plugin
+1. Renamed CEI_Core to Acme_Demo_Setup_CEI_Core
+2. Modify _import method to pass input of file
+3. Renamed CEI_Option to Acme_Demo_Setup_CEI_Option
+4. Remaning wie_available_widgets to acme_demo_setup_wie_available_widgets
+5. Renaming wie_process_import_file to acme_demo_setup_wie_process_import_file
+6. Renaming wie_import_data to acme_demo_setup_wie_import_data
+7. Renaming WP_Import to Acme_Demo_Setup_Wp_Import
+8. Renaming WXR_Parser to Acme_Demo_Setup_WXR_Parser
+9. Renaming WXR_Parser_SimpleXML to Acme_Demo_Setup_WXR_Parser_SimpleXML
+10. Renaming WXR_Parser_XML to Acme_Demo_Setup_WXR_Parser_XML
+11. Renaming WXR_Parser_Regex to Acme_Demo_Setup_WXR_Parser_Regex
+11. Remove unnecessary methods and functions
+*/
